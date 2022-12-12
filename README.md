@@ -11,3 +11,6 @@ Normalize the numeric data columns
 
 DataGenerator.ipynb :
 Python notebook to generate combination of 3 movies and a target label. Generated 500000 data points.
+
+RecommendationEngine.ipynb:
+Training the model and generation of recommendations
